@@ -1,0 +1,43 @@
+{
+  "outdoor": {
+    "table": [
+      "hunting",
+      "walking",
+      "foraging",
+      "bird watching",
+      "hiking",
+      "dog racing",
+      "wrestling",
+      "fishing",
+      "running",
+      "tilting",
+      "hawking",
+      "poaching"
+    ]
+  },
+  "indoor": {
+    "table": [
+      "painting",
+      "pottery",
+      "wood cutting",
+      "drinking",
+      "singing shanties",
+      "gossiping",
+      "telling tales",
+      "festival preparation",
+      "knitting",
+      "betting",
+      "cockfighting",
+      "cards",
+      "backgammon",
+      "draughts",
+      "dice"
+    ]
+  },
+  "all": {
+    "table": [
+      "{{utility-npc/hobby/outdoor:hunting}}",
+      "{{utility-npc/hobby/indoor:pottery}}"
+    ]
+  }
+}
