@@ -26,3 +26,5 @@ Utility library for randomised tables, focusing on NPC details focusing on medie
   (Was born in a farming community, was for a while a lawyer, was injured in battle)
 
 ### Atributions
+
+- https://midnight-wolf.fandom.com/wiki/Fantasy/Medieval_Character_Jobs_or_Occupations

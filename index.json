@@ -1,12 +1,19 @@
 {
-    "collectionID": "utility-npc-fantasy",
-    "collectionName": "Utility NPC Fantasy",
-    "category": "Utility",
-    "isUtility": true,
-    "version": 1,
-    "tags": ["people", "fantasy", "medieval"],
-    "tables": {
-      "hobby": ["outdoor", "indoor", "all"]
-    }
+  "collectionID": "utility-npc-fantasy",
+  "collectionName": "Utility NPC Fantasy",
+  "category": "Utility",
+  "isUtility": true,
+  "version": 2,
+  "tags": ["people", "fantasy", "medieval"],
+  "tables": {
+    "hobby": ["outdoor", "indoor", "all"],
+    "roles": [
+      "job-settlement",
+      "job-combat",
+      "job-artisan",
+      "jobs",
+      "status",
+      "roles"
+    ]
   }
-  
+}
