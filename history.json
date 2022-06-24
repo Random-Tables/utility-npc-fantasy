@@ -1,0 +1,96 @@
+{
+  "youth-common": {
+    "table": [
+      "in a small village",
+      "in a farming community",
+      "in a monastery",
+      "in the wild woods",
+      "with a travelling circus",
+      "in the home of a rich merchant",
+      "in the home of a struggling merchant",
+      "on the sea",
+      "in a dark cave, raised by wolves",
+      "abandoned in the forest",
+      "at a rural fruit farm",
+      "on a mountainside sheep herder's home",
+      "in a nomadic tribe",
+      "a wealthy noble family",
+      "an illicit bastard of a noble, raised secretly by servants",
+      "at a musical college",
+      "in a brothel",
+      "a cobblers son",
+      "the son of a blacksmith",
+      "the son of a fisherman",
+      "the son of a watchmaker",
+      "the son of a scribe",
+      "the son of a crazed musician",
+      "in a hidden forest cult",
+      "in a well to do artisan's household",
+      "an indentured serf by birth, serving your parents debtor",
+      "in the rough city streets",
+      "in a wretchedly poor household in the slums"
+    ]
+  },
+  "youth-dwarven": {
+    "table": [
+      "in a mountain outpost",
+      "in a mining cavern",
+      "in a growing cave-village",
+      "in a subground mteropolis",
+      "in a rich gemcutters son"
+    ]
+  },
+  "youth-dwarven-mix": {
+    "table": [
+      "{{utility-npc-fantasy/history/youth-common:in a small village}}",
+      "{{utility-npc-fantasy/history/youth-dwarven:in a mountain outpost}}"
+    ]
+  },
+  "youth-elven-mix": {
+    "table": [
+      "a {{utility-npc-fantasy/history/youth-common:in a small village}}",
+      "{{utility-npc-fantasy/history/youth-forest:in a secret city hidden in a forest glade}}"
+    ]
+  },
+  "youth-forest": {
+    "table": [
+      "in a secret city hidden in a forest glade",
+      "in a musicians college high in the treetops",
+      "an elvish village in a secret valley hidden by magic",
+      "in a well off household in a great elvish forest fortress"
+    ]
+  },
+  "events-good": {
+    "table": [
+      "won glory in battle",
+      "made a large amount of money betting",
+      "was known for telling the best shaggy dog stories",
+      "received training in a martial academy",
+      "received training in a musical academy",
+      "received training in a scholarly academy",
+      "won renown in a contest of physical skill",
+      "won renown in a contest of mental skill",
+      "was sponsored by a patron for their artistic capacities"
+    ]
+  },
+  "events-bad": {
+    "table": [
+      "injured in battle",
+      "won glory in battle, but now hides from past for events are fabricated",
+      "almost killed by partner for infidelity",
+      "killed a business partner in revenge for theft",
+      "fell in with a troubled crowd",
+      "lost a loved one",
+      "was badly betrayed by a loved one",
+      "barely escaped death from a natural disaster",
+      "barely escaped death during a period of great violence",
+      "was briefly kidnapped by bandits"
+    ]
+  },
+  "events": {
+    "table": [
+      "{{utility-npc-fantasy/history/events-good:won glory in battle}}",
+      "{{utility-npc-fantasy/history/events-bad:injured in battle}}"
+    ]
+  }
+}

@@ -19,11 +19,11 @@ Utility library for randomised tables, focusing on NPC details focusing on medie
 
 ##### history
 
-- birth
+- youth
 - past roles
 - life events
-  (Was born in `birth`, was for a while `past roles`, was `life events`)
-  (Was born in a farming community, was for a while a lawyer, was injured in battle)
+  (Grew up `youth`, was for a while `past roles`,and during their younger years `life events`)
+  (Grew up in a farming community, was for a while a lawyer, and during their younger years injured in battle)
 
 ### Atributions
 

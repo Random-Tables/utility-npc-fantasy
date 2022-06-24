@@ -3,7 +3,7 @@
   "collectionName": "Utility NPC Fantasy",
   "category": "Utility",
   "isUtility": true,
-  "version": 2,
+  "version": 3,
   "tags": ["people", "fantasy", "medieval"],
   "tables": {
     "hobby": ["outdoor", "indoor", "all"],
@@ -14,6 +14,16 @@
       "jobs",
       "status",
       "roles"
+    ],
+    "history": [
+      "youth-common",
+      "youth-dwarven",
+      "youth-dwarven-mix",
+      "youth-elven-mix",
+      "youth-forest",
+      "events-good",
+      "events-bad",
+      "events"
     ]
   }
 }

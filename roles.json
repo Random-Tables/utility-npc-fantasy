@@ -132,27 +132,27 @@
     },
     "status": {
         "table": [
-            "vagabond",
-            "beggar",
-            "cult member",
-            "outcast",
+            "a vagabond",
+            "a beggar",
+            "a cult member",
+            "an outcast",
             "jailed",
-            "debtor",
+            "a debtor",
             "lost",
-            "highwayman",
+            "a highwayman",
             "on the run",
             "in hiding",
-            "hermit",
-            "monk",
-            "pirate",
-            "scavanger",
-            "student",
-            "thief"
+            "a hermit",
+            "a monk",
+            "a pirate",
+            "a scavanger",
+            "a student",
+            "a thief"
         ]
     },
     "roles": {
         "table": [
-            "{{utility-npc-fantasy/role/jobs:innkeeper}}",
+            "a {{utility-npc-fantasy/role/jobs:innkeeper}}",
             "{{utility-npc-fantasy/role/status:vagabond}}"
         ]
     }
