@@ -125,9 +125,9 @@
     },
     "jobs": {
         "table": [
-            "{{utility-npc-fantasy/role/job-settlement:innkeeper}}",
-            "{{utility-npc-fantasy/role/job-combat:guard}}",
-            "{{utility-npc-fantasy/role/job-artisan:vagabond}}"
+            "{{utility-npc-fantasy/roles/job-settlement:innkeeper}}",
+            "{{utility-npc-fantasy/roles/job-combat:guard}}",
+            "{{utility-npc-fantasy/roles/job-artisan:vagabond}}"
         ]
     },
     "status": {
@@ -152,8 +152,8 @@
     },
     "roles": {
         "table": [
-            "a {{utility-npc-fantasy/role/jobs:innkeeper}}",
-            "{{utility-npc-fantasy/role/status:vagabond}}"
+            "a {{utility-npc-fantasy/roles/jobs:innkeeper}}",
+            "{{utility-npc-fantasy/roles/status:vagabond}}"
         ]
     }
 }
