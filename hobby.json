@@ -36,8 +36,8 @@
   },
   "all": {
     "table": [
-      "{{utility-npc/hobby/outdoor:hunting}}",
-      "{{utility-npc/hobby/indoor:pottery}}"
+      "{{utility-npc-fantasy/hobby/outdoor:hunting}}",
+      "{{utility-npc-fantasy/hobby/indoor:pottery}}"
     ]
   }
 }

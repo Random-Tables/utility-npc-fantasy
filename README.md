@@ -12,10 +12,6 @@ Utility library for randomised tables, focusing on NPC details focusing on medie
 - life roles / jobs
   (and has a job as a `job`)
   (and has a job as a bookkeeper)
-- ?motivations
-- ?secret
-  (He is motivated by `motivation` and `secret`)
-  (He is motivated by wealth and hides a gambling addiction)
 
 ##### history
 
