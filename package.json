@@ -1,0 +1,19 @@
+{
+  "name": "@random-tables/utility-npc-fantasy",
+  "version": "1.3.0",
+  "description": "table data for fantasy NPC's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Random-Tables/utility-npc-fantasy.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Random-Tables/utility-npc-fantasy/issues"
+  },
+  "homepage": "https://github.com/Random-Tables/utility-npc-fantasy#readme"
+}
