@@ -3,7 +3,7 @@ const hobby = require("./hobby.json");
 const roles = require("./roles.json");
 const history = require("./history.json");
 
-exports.index = {
+module.exports = {
   ...index,
   tableData: {
     hobby,
